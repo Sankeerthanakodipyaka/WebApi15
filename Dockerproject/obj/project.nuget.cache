@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z7ft7pYxhUPKmIsTJoSQJV7TPM7KENs7LW22qQq6zvmoOOVa/wvHn94ZIY3A6S0tA1akEam4X8Z5Iv3+if2QeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\microchip\\source\\repos\\Dockerproject\\Dockerproject\\Dockerproject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\microchip\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}

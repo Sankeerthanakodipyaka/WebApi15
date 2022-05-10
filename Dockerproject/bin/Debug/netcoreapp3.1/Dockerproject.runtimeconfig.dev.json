@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\microchip\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\microchip\\.nuget\\packages"
+    ]
+  }
+}
